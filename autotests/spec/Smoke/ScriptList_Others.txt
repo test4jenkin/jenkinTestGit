@@ -1,0 +1,5 @@
+spec/Smoke/smoketest_merlin_auto_aus_budget_balance.rb
+spec/Smoke/smoketest_merlin_auto_usa_currency_revaluation.rb
+spec/Smoke/smoketest_merlin_auto_usa_fm_community.rb
+spec/Smoke/smoketest_merlin_auto_usa_calculate_sales_tax_for_sin_scr.rb
+spec/Smoke/smoketest_merlin_auto_usa_mass_email_for_sin_scr.rb

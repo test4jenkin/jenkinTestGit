@@ -1,0 +1,1 @@
+spec/SRP/smoke/smoketest_accounting_srp_compatibility_smoke_test.rb

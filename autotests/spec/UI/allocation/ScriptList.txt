@@ -1,0 +1,17 @@
+spec/UI/allocation/allocation_statistical_distribution_TID021393.rb
+spec/UI/allocation/allocation_TID021157_unmanaged.rb
+spec/UI/allocation/allocation_TID021158_unmanaged.rb
+spec/UI/allocation/allocation_TID021232_unmanaged.rb
+spec/UI/allocation/allocation_TID021233_unmanaged.rb
+spec/UI/allocation/allocations_create_update_fixed_AR_TID021365.rb
+spec/UI/allocation/allocations_load_and_save_template_fixed_TID021445.rb
+spec/UI/allocation/allocations_load_and_save_template_variable_TID021467.rb
+spec/UI/allocation/allocations_rules_fixed_TID021175_unmanaged.rb
+spec/UI/allocation/allocations_rules_variable_TID021317.rb
+spec/UI/allocation/allocations_show_all_tlis_TID015958_unmanaged.rb
+spec/UI/allocation/allocations_template_override_TID012774_unmanaged.rb
+spec/UI/allocation/Intercompany_Eliminations_TID014831_unmanaged.rb
+spec/UI/allocation/allocation_filter_on_account_TID021439.rb
+spec/UI/allocation/allocation_progress_wizard_preview_panel_TID021512.rb
+spec/UI/allocation/alternate_support_fixed_allocation_TID021558.rb
+spec/UI/allocation/allocation_scheduler_test_TID011078.rb

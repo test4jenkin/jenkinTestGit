@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <webLinks>
+        <fullName>CB_test</fullName>
+        <availability>online</availability>
+        <description>CB_test</description>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>CB_test</masterLabel>
+        <openType>sidebar</openType>
+        <page>CB_test</page>
+        <protected>false</protected>
+    </webLinks>
+</CustomObject>

@@ -1,0 +1,1 @@
+spec/bankformat/smoke/smoketest_bank_format_definition_compatibility_test.rb

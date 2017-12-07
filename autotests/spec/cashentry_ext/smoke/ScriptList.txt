@@ -1,0 +1,1 @@
+spec/cashentry_ext/smoke/smoketest_accounting_cash_entry_ext_layout_create_post.rb

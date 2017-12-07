@@ -1,0 +1,1 @@
+spec/Smoke/smoketest_accounting_intercompany.rb

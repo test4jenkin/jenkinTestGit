@@ -1,0 +1,1 @@
+spec/SCM_connector/smoke/smoketest_compatibility_test_scm_connector_TID021320.rb

@@ -1,0 +1,1 @@
+spec/fam/smoke/smoketest_fam_compatibility_test_with_ffa_TID015832.rb

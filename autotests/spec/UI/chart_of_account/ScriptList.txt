@@ -1,0 +1,5 @@
+spec/UI/chart_of_account/accounting_chart_of_accounts_mappings_TID018438_unmanaged.rb
+spec/UI/chart_of_account/chart_of_accounts_mappings_TID018189_unmanaged.rb
+spec/UI/chart_of_account/chart_of_accounts_mappings_TID018369_unmanaged.rb
+spec/UI/chart_of_account/chart_of_accounts_mappings_TID019247_unmanaged.rb
+spec/UI/chart_of_account/chart_of_accounts_mappings_TID019590_unmanaged.rb

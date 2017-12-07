@@ -1,0 +1,3 @@
+<apex:page standardController="codaCashEntry__c" showHeader="false" sidebar="false">
+  Custom button text
+</apex:page>

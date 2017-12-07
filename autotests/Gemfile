@@ -1,0 +1,14 @@
+# Gemfile for FFA 
+
+source "https://rubygems.org"
+
+gem 'nokogiri', '~> 1.6.6.2'
+gem 'capybara', '~>2.6.2'
+gem 'rspec', '~> 3.4.0'
+gem 'selenium-webdriver', '~> 2.51.0', '<= 2.51.0'
+gem 'xpath', '~>2.0.0'
+gem 'rubyXL', '~> 3.3.10'
+gem 'json', '~> 1.8.3'
+gem 'capybara-screenshot' 
+gem 'rake'
+gem 'mail'

@@ -1,0 +1,2 @@
+spec/Smoke/smoketest_merlin_auto_usa_create_sin_scr_using_api.rb
+spec/Smoke/smoketest_merlin_auto_usa_aus_create_credit_note_transaction_using_API.rb

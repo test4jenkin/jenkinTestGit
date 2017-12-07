@@ -1,0 +1,2 @@
+spec/Smoke/smoketest_merlin_auto_spain_as_of_aging_process.rb
+spec/Smoke/smoketest_merlin_auto_spain_year_end_process.rb

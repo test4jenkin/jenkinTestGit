@@ -1,0 +1,3 @@
+spec/Smoke/smoketest_merlin_auto_aus_payment_collections.rb
+spec/Smoke/smoketest_merlin_auto_spain_payinvoice_creditnotes_payment_collection.rb
+spec/Smoke/smoketest_accounting_merlin_auto_usa_payment_plus_TID021757.rb

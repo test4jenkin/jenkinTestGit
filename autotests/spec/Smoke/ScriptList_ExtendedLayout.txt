@@ -1,0 +1,3 @@
+spec/Smoke/smoketest_merlin_auto_spain_manage_line_operations.rb
+spec/Smoke/smoketest_merlin_auto_aus_extended_salesinvoice.rb
+spec/Smoke/smoketest_merlin_auto_spain_payable_invoice_creditnote_extended_layout.rb

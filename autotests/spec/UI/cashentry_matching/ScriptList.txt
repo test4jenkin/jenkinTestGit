@@ -1,0 +1,4 @@
+spec/UI/cashentry_matching/accounting_cash_enrty_and_matching_TID012132.rb
+spec/UI/cashentry_matching/accounting_cash_enrty_and_matching_TID012133.rb
+spec/UI/cashentry_matching/accounting_cash_entry_and_matching_TID012734.rb
+spec/UI/cashentry_matching/accounting_cash_entry_and_matching_TID012821.rb

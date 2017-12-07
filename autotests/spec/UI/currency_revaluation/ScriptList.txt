@@ -1,0 +1,5 @@
+spec/UI/currency_revaluation/accounting_currency_revaluation_TID016376_unmanaged.rb
+spec/UI/currency_revaluation/accounting_currency_revaluation_TID016916_unmanaged.rb
+spec/UI/currency_revaluation/currency_revaluation_TID018451_unmanaged.rb
+spec/UI/currency_revaluation/currency_revaluation_TID018465_unmanaged.rb
+spec/UI/currency_revaluation/currency_revaluation_TID021066_unmanaged.rb

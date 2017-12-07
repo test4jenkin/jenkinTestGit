@@ -1,0 +1,5 @@
+--require spec_helper
+--color 
+--format progress
+--format html
+--out Capybara_Test_Run_Results.html

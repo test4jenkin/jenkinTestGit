@@ -1,0 +1,1 @@
+spec/sales_order_process/smoke/smoketest_sales_order_processing_compatibility_test.rb

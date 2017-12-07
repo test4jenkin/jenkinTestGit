@@ -1,0 +1,2 @@
+spec/Smoke/smoketest_accounting_coa_intercompany_process.rb
+spec/Smoke/smoketest_accounting_coa_autopopulate_local_gla.rb

@@ -1,0 +1,2 @@
+spec/Smoke/smoketest_merlin_auto_spain_cash_matching.rb
+spec/Smoke/smoketest_merlin_auto_aus_background_matching_process.rb

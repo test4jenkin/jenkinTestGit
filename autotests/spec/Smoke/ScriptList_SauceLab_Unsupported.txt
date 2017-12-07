@@ -1,0 +1,4 @@
+spec/Smoke/smoketest_merlin_auto_usa_cashmatching_and_bank_reconciliation.rb
+spec/Smoke/smoketest_merlin_auto_spain_online_enquiry.rb
+spec/Smoke/smoketest_merlin_auto_gb_cif_create_new_document_post.rb
+spec/Smoke/smoketest_allocation_icd_validations_TID021704.rb

@@ -1,0 +1,2 @@
+spec/UI/income_schedule/accounting_income_schedule_products_with_different_Sales_Revenue_TID015246_unmanaged.rb
+spec/UI/income_schedule/accounting_income_schedule_TID012480_unmanaged.rb

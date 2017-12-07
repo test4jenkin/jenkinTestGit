@@ -1,0 +1,3 @@
+spec/UI/accounting*.rb
+spec/UI/currency_revaluation*.rb
+spec/UI/chart_of_accounts*.rb

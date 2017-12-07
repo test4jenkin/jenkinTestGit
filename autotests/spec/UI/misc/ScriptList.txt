@@ -1,0 +1,2 @@
+spec/UI/misc/accounting_TID018974_unmanaged.rb
+spec/UI/misc/bankrec_TID022052_unmanaged.rb
